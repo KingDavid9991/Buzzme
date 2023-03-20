@@ -38,3 +38,7 @@ Buzzme is committed to constantly improving and adding new features to the dapp.
 
 • Enabling content creators to easily withdraw their funds to their preferred wallets or exchange platforms
 
+
+Deployment information : http://buzzme.netlify.app
+
+
