@@ -41,4 +41,4 @@ Buzzme is committed to constantly improving and adding new features to the dapp.
 
 Deployment information : http://buzzme.netlify.app
 
-
+Contract address : 0x32024E4276755bC45FF70836B96D773134d9B67d
