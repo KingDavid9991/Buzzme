@@ -4,11 +4,7 @@ Buzzme is a decentralized application (dapp) built on the Ethereum blockchain th
 
 Features
 
-• Send and receive ETH payments quickly and securely
-
 • Connect with your favorite content creators and show your support
-
-• View transaction history and account balances in real-time
 
 • Minimal transaction fees, powered by Ethereum's blockchain technology
 
